@@ -1,0 +1,16 @@
+{
+  "name": "testingjest",
+  "version": "1.0.0",
+  "description": "Aprendiendo JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "wee",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.0",
+    "jest": "^26.6.0"
+  }
+}
